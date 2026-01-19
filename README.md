@@ -5,4 +5,4 @@ A repository dedicated to projects developed using Python.
 
 | Name Projects |  Level |
 | ------------- |:------:|
-| [Number Guessing] (https://github.com/evanysilvestre/pythonProjects/tree/main/numberGuessing)| Easy |
+| [Number Guessing](https://github.com/evanysilvestre/pythonProjects/tree/main/numberGuessing)| Easy |
